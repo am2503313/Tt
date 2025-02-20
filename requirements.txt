@@ -1,0 +1,11 @@
+python-telegram-bot==13.7
+requests==2.31.0
+urllib3==1.26.6
+certifi>=2023.7.22
+charset-normalizer>=2.0.0
+idna>=2.5
+APScheduler>=3.6.3
+pytz>=2021.1
+six>=1.16.0
+tornado>=6.1
+tzlocal>=3.0
